@@ -1,0 +1,4 @@
+Port: 22, ssh
+Port: 23, telnet
+Port: 53, domain
+Port: 80, http
